@@ -8,7 +8,7 @@ I'm a fresh graduate passionate about technology and software development. I rec
 ## :hammer_and_wrench: Technical Skills
 ### Programming Languages
 - **Proficient**: C#
-- **Familiar**: Paython, Java, CSS, JavaScript, HTML, C#, SQL, PHP, Dart
+- **Familiar**: Python, Java, CSS, JavaScript, HTML, C#, SQL, PHP, Dart
 - **Learning**: C#
 ### Web Development
 - **Frontend**: HTML, CSS, JavaScript
