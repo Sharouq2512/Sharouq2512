@@ -21,7 +21,12 @@ I'm a fresh graduate passionate about technology and software development. I rec
 - Learning C# and working on projects
 - Full-stack development
 ## :telescope: Projects
-[any projects you finished before]
+Graduation project: Monitoring Child Safety on School Buses Using Sensor Technology with a
+Location-Based System -2024.
+• Designed a system to enhance student safety on school buses using seat-detection sensors and real-
+time alerts.
+• Developed an application enabled parents to track their child’s location, Implemented a notification
+system to alert parents when a child boards or exits the bus.
 ## :mailbox: How to Reach Me
 - Email: Sharouqalbadi12@gmail.com
 - LinkedIn: http://linkedin.com/in/sharouq-al-badi-a0a593381
