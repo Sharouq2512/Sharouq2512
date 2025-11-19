@@ -18,7 +18,8 @@ I'm a fresh graduate passionate about technology and software development. I rec
 - Version Control: Git, GitHub
 - IDEs: Visual Studio, VS Code
 ## :books: What I'm Currently Learning
-- [Course or certification you're pursuing]
+- Learning C# and working on projects
+- Full-stack development
 ## :telescope: Projects
 [any projects you finished before]
 ## :mailbox: How to Reach Me
