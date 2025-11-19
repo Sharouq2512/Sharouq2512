@@ -23,7 +23,7 @@ I'm a fresh graduate passionate about technology and software development. I rec
 [any projects you finished before]
 ## :mailbox: How to Reach Me
 - Email: Sharouqalbadi12@gmail.com
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: http://linkedin.com/in/sharouq-al-badi-a0a593381
 ## :seedling: Fun Facts
 - [Something interesting about you related to tech]
 - [Your hobbies or interests]
